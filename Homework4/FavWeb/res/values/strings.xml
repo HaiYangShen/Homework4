@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FavWeb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string><string name="confirmMessage">Are you sure you want to delete the search \"%s\"?</string><string name="delete">Delete</string><string name="cancel">Cancel</string>
+    <string name="listTitle">Websites List</string>
+    <string name="missingMessage">Please enter both website URL and a tag!</string>
+    <string name="OK">OK</string>
+    <string name="editDeleteTitle">Edit or Delete the search tagged as \&quot;%s\&quot;</string><string-array name="dialog_items">
+      <item>Edit</item>
+      <item>Delete</item>
+   </string-array>
+
+</resources>
